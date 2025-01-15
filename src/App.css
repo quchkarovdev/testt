@@ -1,0 +1,8 @@
+
+.db{
+    background-image: url('../public/img.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
